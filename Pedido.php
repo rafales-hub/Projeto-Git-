@@ -5,4 +5,10 @@ class Pedido {
     private $producao;
     private $dataCraicao;
     
+
+
+public function getId(){
+    return $this->id;
+
+}
 }
