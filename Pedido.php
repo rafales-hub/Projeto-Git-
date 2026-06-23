@@ -7,6 +7,5 @@ class Pedido {
     
 public function getId(){
     return $this->id;
-
 }
 }
